@@ -2,7 +2,6 @@
   "config": {
     "step": {
       "user": {
-        "title": "Lightswitch",
         "description": "Hvis du trenger hjep til konfigurasjon ta en titt her: https://github.com/crodriguezanton/homeassistant-custom-component-lightswitch",
         "data": {
           "username": "Brukernavn",
