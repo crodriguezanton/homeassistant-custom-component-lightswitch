@@ -1,0 +1,10 @@
+{
+  "domain": "lightswitch",
+  "name": "Lightswitch",
+  "documentation": "https://github.com/crodriguezanton/lightswitch",
+  "issue_tracker": "https://github.com/crodriguezanton/lightswitch/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@crodriguezanton"],
+  "requirements": []
+}
