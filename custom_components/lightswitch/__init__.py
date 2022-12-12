@@ -2,7 +2,7 @@
 Custom integration to integrate Lightswitch with Home Assistant.
 
 For more details about this integration, please refer to
-https://github.com/crodriguezanton/lightswitch
+https://github.com/crodriguezanton/homeassistant-custom-component-lightswitch
 """
 import asyncio
 import logging
