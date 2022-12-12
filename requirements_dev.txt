@@ -1,3 +1,5 @@
 homeassistant
 pre-commit>=2.20.0
 black>=22.1.0
+flake8>=3.8.4
+reorder-python-imports>=2.3.6

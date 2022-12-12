@@ -1,10 +1,12 @@
 {
   "domain": "lightswitch",
   "name": "Lightswitch",
+  "version": "0.0.0",
   "documentation": "https://github.com/crodriguezanton/homeassistant-custom-component-lightswitch",
   "issue_tracker": "https://github.com/crodriguezanton/homeassistant-custom-component-lightswitch/issues",
   "dependencies": [],
   "config_flow": true,
   "codeowners": ["@crodriguezanton"],
-  "requirements": []
+  "requirements": [],
+  "iot_class": "cloud_polling"
 }
